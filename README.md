@@ -6,7 +6,7 @@ Using a Raspberry Pi 5 with 8GB RAM and a CA1507 camera, equipped with the Paddl
 based on the paddle-lite model
 https://github.com/Qengineering/PaddleOCR-Lite-Document?tab=readme-ov-file
 
-Follow the guild, the PaddleOCR model is verified by raspi-5 8GB
+Follow the guild, the PaddleOCR model is verified by raspi-5 8GB（tf card must larger than 64gb）
 
 The critical code is located in Mydir/bin/release.
 
