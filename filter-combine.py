@@ -11,7 +11,7 @@ from multiprocessing import Process, Value
 from gpiozero import DigitalOutputDevice, DigitalInputDevice
 from collections import deque
 
-# ================= 配置 =================
+# ================= 配置 ==================
 DT_PIN = 5
 SCK_PIN = 6
 PIXEL_TO_MM = 0.25
