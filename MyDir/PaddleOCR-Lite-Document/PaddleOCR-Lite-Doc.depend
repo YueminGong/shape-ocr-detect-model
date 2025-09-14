@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1757700988 source:/home/pi/MyDir/PaddleOCR-Lite-Document/src/clipper.cpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<cstring>
+	<functional>
+	<ostream>
+	<stdexcept>
+	<vector>
+	"clipper.h"
+
+1757700988 /home/pi/MyDir/PaddleOCR-Lite-Document/include/clipper.h
+	<cstdlib>
+	<cstring>
+	<functional>
+	<list>
+	<ostream>
+	<queue>
+	<set>
+	<stdexcept>
+	<vector>
+
